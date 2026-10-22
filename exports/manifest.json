@@ -1,0 +1,668 @@
+[
+  {
+    "source_type": "call",
+    "source_id": "4868e5cd-5ab8-581c-a0e4-acc37385f0cf",
+    "record_ref": "B01",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b01_intake_4868e5cd.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "5747e4cd-e24f-5bed-bf74-9e3f326b2d77",
+    "record_ref": "B02",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b02_intake_5747e4cd.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "024caffc-d16e-5843-b325-682dbc8d448e",
+    "record_ref": "B03",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b03_intake_024caffc.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "530207ea-d67b-521a-8085-bdb9ae665417",
+    "record_ref": "B04",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b04_intake_530207ea.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "903641e9-d761-591a-a149-334ddfcd236e",
+    "record_ref": "B05",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b05_intake_903641e9.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "53f61c95-27b9-50c2-8755-08f957594950",
+    "record_ref": "B06",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b06_intake_53f61c95.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "f9be8537-1ad9-58fc-be24-78f73d09db9c",
+    "record_ref": "B07",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b07_intake_f9be8537.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "77350513-913c-5fed-b4e6-71009de9df03",
+    "record_ref": "B08",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b08_intake_77350513.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "747390bc-f359-5609-bf79-0a44ef8919bd",
+    "record_ref": "B09",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b09_intake_747390bc.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "3ea930a1-0496-51e3-9dca-adc3be29331a",
+    "record_ref": "B10",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b10_intake_3ea930a1.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "bfefcb48-1a98-5610-a0ee-0f03434188a9",
+    "record_ref": "B11",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b11_intake_bfefcb48.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "9a64eb58-d462-5a6e-aa9e-c0f88852ebe0",
+    "record_ref": "B12",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b12_intake_9a64eb58.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "6521ed7d-53fc-5b3b-be77-7d4610c90ed7",
+    "record_ref": "B13",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b13_intake_6521ed7d.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "81da63f4-eac6-5efd-95e1-69ad6e6def25",
+    "record_ref": "B14",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b14_intake_81da63f4.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "2ada5ab0-8a84-54b7-a071-cd5bd6ad5abd",
+    "record_ref": "B15",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b15_intake_2ada5ab0.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "1f5181ed-4175-5d73-a16b-01d404b1820d",
+    "record_ref": "B16",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b16_intake_1f5181ed.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "1645d595-1896-5201-9395-cb8a9f1c5f3a",
+    "record_ref": "B17",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b17_intake_1645d595.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "26c3ccc3-63a6-55f6-a5a3-e279b36b7e88",
+    "record_ref": "B18",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b18_intake_26c3ccc3.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "6ee11c0e-c74a-5805-b552-657443378b72",
+    "record_ref": "B19",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b19_intake_6ee11c0e.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "94b4f015-b243-5b89-b435-9957125ecdd4",
+    "record_ref": "B20",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/b20_intake_94b4f015.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "call",
+    "source_id": "2ec4404c-beee-5377-a63c-aab701da08ed",
+    "record_ref": "C01",
+    "applied_revision": 1,
+    "routes": [
+      "Sales Coaching",
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/sales_coaching/c01_cold_call_objections.md",
+      "exports/triage_and_intake/c01_contact_compliance_triage.md"
+    ],
+    "processing_state": "Reviewed",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "call",
+    "source_id": "4b870624-8aad-5315-a60e-0db95981cf99",
+    "record_ref": "C02",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/c02_receptionist_gatekeeper.md"
+    ],
+    "processing_state": "Reviewed",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "call",
+    "source_id": "20d509ba-d589-5334-9aef-ea4ce6105b1a",
+    "record_ref": "C03",
+    "applied_revision": 1,
+    "routes": [
+      "Deal Next Steps"
+    ],
+    "output_paths": [
+      "exports/deal_next_steps/c03_developer_api_pricing.md"
+    ],
+    "processing_state": "Action Required",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "call",
+    "source_id": "bcdcbf56-d338-5c78-9a97-42c2fc1c9931",
+    "record_ref": "C04",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/c04_lanternpath_voicemail.md"
+    ],
+    "processing_state": "Reviewed",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "call",
+    "source_id": "75a6b94f-7717-5cfb-9e41-0acc94415e17",
+    "record_ref": "C05",
+    "applied_revision": 1,
+    "routes": [
+      "Sales Coaching"
+    ],
+    "output_paths": [
+      "exports/sales_coaching/c05_storeharbor_incumbent_pitch.md"
+    ],
+    "processing_state": "Reviewed",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "call",
+    "source_id": "12216d5c-e254-52c6-b344-47de4c6e1ae5",
+    "record_ref": "C06",
+    "applied_revision": 1,
+    "routes": [
+      "Sales Coaching"
+    ],
+    "output_paths": [
+      "exports/sales_coaching/c06_retail_cash_advance_pitch.md"
+    ],
+    "processing_state": "Reviewed",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "call",
+    "source_id": "428817fa-7e9e-5418-a7d4-bb396d28dfbf",
+    "record_ref": "C07",
+    "applied_revision": 1,
+    "routes": [
+      "Partnership Referral"
+    ],
+    "output_paths": [
+      "exports/partnerships/c07_willowbank_advisory_referral.md"
+    ],
+    "processing_state": "Reviewed",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "call",
+    "source_id": "129497b2-8e1d-5e01-919c-e8a852b5ff68",
+    "record_ref": "C08",
+    "applied_revision": 1,
+    "routes": [
+      "Deal Next Steps"
+    ],
+    "output_paths": [
+      "exports/deal_next_steps/c08_frontline_people_ops_proposal.md"
+    ],
+    "processing_state": "Action Required",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "call",
+    "source_id": "4a1de681-f884-55e8-b1ad-de22d17cd959",
+    "record_ref": "C09",
+    "applied_revision": 1,
+    "routes": [
+      "Sales Coaching"
+    ],
+    "output_paths": [
+      "exports/sales_coaching/c09_internal_software_referral.md"
+    ],
+    "processing_state": "Reviewed",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "call",
+    "source_id": "b747f592-810e-583c-9b81-8db5ab035806",
+    "record_ref": "C10",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/c10_departed_contact_manufacturing.md"
+    ],
+    "processing_state": "Reviewed",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "cb5cecac-e68d-52b7-b10b-b0c748efc467",
+    "record_ref": "M01",
+    "applied_revision": 1,
+    "routes": [
+      "Partnership Referral",
+      "Sales Coaching"
+    ],
+    "output_paths": [
+      "exports/partnerships/m01_harborpath_advisory_partnership.md",
+      "exports/sales_coaching/m01_qualification_boundaries.md"
+    ],
+    "processing_state": "Reviewed",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "1a21c409-c050-5787-90af-2667e057e1b6",
+    "record_ref": "M02",
+    "applied_revision": 1,
+    "routes": [
+      "Deal Next Steps"
+    ],
+    "output_paths": [
+      "exports/deal_next_steps/m02_ledgerbridge_multi_entity_erp.md"
+    ],
+    "processing_state": "Action Required",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "398672e7-62dd-5afd-846d-0237d49792fb",
+    "record_ref": "M03",
+    "applied_revision": 1,
+    "routes": [
+      "Deal Next Steps"
+    ],
+    "output_paths": [
+      "exports/deal_next_steps/m03_asterloom_two_tier_approval.md"
+    ],
+    "processing_state": "Action Required",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "b0f79b3d-37ba-52f9-b2bc-58b159dd6d91",
+    "record_ref": "M04",
+    "applied_revision": 1,
+    "routes": [
+      "Deal Next Steps"
+    ],
+    "output_paths": [
+      "exports/deal_next_steps/m04_cedarwave_driver_fuel_cards.md"
+    ],
+    "processing_state": "Action Required",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "e0ecb112-ed94-5e8e-ae71-19def5536337",
+    "record_ref": "M05",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/m05_intake_e0ecb112.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "657b9e9d-9472-5b01-a127-a648ad7e8cf7",
+    "record_ref": "M06",
+    "applied_revision": 1,
+    "routes": [
+      "Sales Coaching"
+    ],
+    "output_paths": [
+      "exports/sales_coaching/m06_mapletrail_timeline_pushback.md"
+    ],
+    "processing_state": "Reviewed",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "4f304fff-fd40-5cfc-a366-0a134c445c2a",
+    "record_ref": "M07",
+    "applied_revision": 2,
+    "routes": [
+      "Deal Next Steps"
+    ],
+    "output_paths": [
+      "exports/deal_next_steps/m07_willowfield_trust_wallets.md"
+    ],
+    "processing_state": "Action Required",
+    "manual_override": false,
+    "analysis_freshness": "current_rev2"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "883182d8-eb86-56f9-a928-152365998d15",
+    "record_ref": "M08",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/m08_intake_883182d8.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "4b5b9192-f3fc-505a-8e77-4d2ffaa54594",
+    "record_ref": "M09",
+    "applied_revision": 1,
+    "routes": [
+      "Customer Success / Support",
+      "Internal / Operations"
+    ],
+    "output_paths": [
+      "exports/customer_success/m09_brookmint_holdings_activation.md",
+      "exports/internal_ops/m09_token_lifespan_escalation.md"
+    ],
+    "processing_state": "Action Required",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "337f297d-9385-5b82-9e54-5019c1ed912c",
+    "record_ref": "M10",
+    "applied_revision": 1,
+    "routes": [
+      "Internal / Operations"
+    ],
+    "output_paths": [
+      "exports/internal_ops/m10_billing_workflow_walkthrough.md"
+    ],
+    "processing_state": "Reviewed",
+    "manual_override": false,
+    "analysis_freshness": "current"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "fc651475-187c-5882-a644-b501408e8647",
+    "record_ref": "M11",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/m11_intake_fc651475.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "c759b921-e9d3-540c-a06b-474c5710342d",
+    "record_ref": "M12",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/m12_intake_c759b921.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "794a9d1c-889d-5957-873f-8a1271b03455",
+    "record_ref": "M13",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/m13_intake_794a9d1c.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "93f4867d-65cd-5236-bc55-7bd57df8ac24",
+    "record_ref": "M14",
+    "applied_revision": 1,
+    "routes": [
+      "Triage / Unqualified"
+    ],
+    "output_paths": [
+      "exports/triage_and_intake/m14_intake_93f4867d.md"
+    ],
+    "processing_state": "Intake Logged",
+    "manual_override": false,
+    "analysis_freshness": "not_applicable"
+  }
+]
