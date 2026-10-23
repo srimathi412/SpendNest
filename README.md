@@ -24,7 +24,7 @@ The application uses a React frontend and a Node.js/Express REST API. The suppli
 
 ## 2. System Architecture
 
-![SpendNest System Architecture](docs/spendnest-architecture.png)
+![SpendNest System Architecture](docs/spendnest-architecture(1).png)
 
 **Request Flow:**
 
